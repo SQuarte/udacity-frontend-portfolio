@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.main-img {
+  width: 100%;
+}
+
+.about-me {
+  width: 100%;
+}
+
+.project-item {
+  width: 100%;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}

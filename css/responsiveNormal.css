@@ -1,0 +1,24 @@
+.main-img {
+  width: 100%;
+  height: 550px;
+}
+
+.about-me {
+  width: 100%;
+}
+
+.project-item {
+  width: calc(50% - 10px);
+  margin-left: 20px;
+  margin-right: 0px;
+}
+
+.project-item:first-of-type {
+  margin-left: 0px;
+}
+
+.project-item:last-of-type {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
